@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maxim Untilov
-- 👀 I’m interested in software engineering and building apps
-- 🌱 I’m currently learning MERN stack development
+- 👀 I am interested getting my toes wet in all sorts of projects. Currently a Full Stack Developer for web and ios apps.
+- 🌱 Currently upskilling in AWS and backend technologies
 - 💞️ I’m looking to collaborate on an app that will change and shape the future!
 - 📫 How to reach me, mixamu01@gmail.com
 
