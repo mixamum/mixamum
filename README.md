@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mixamum" alt="mixamum" /></a> </p>
 
-- 🔭 I’m currently working on **Dating App**
+- 🔭 I’m currently working on **Vibe N Ride (Rideshare Startup)**
 
 - 🌱 I’m currently learning **AWS, AI, React Native**
 
-- 💬 Ask me about **React, Swift, Typescript, NextJS**
+- 💬 Ask me about **React, Swift, Typescript, NextJS, React Native**
 
 - 📫 How to reach me **mixamu01@gmail.com**
 
